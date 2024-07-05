@@ -19,7 +19,7 @@ defmodule DialyxirDemo.MixProject do
     [
       {:dialyxir,
       github: "sendle/dialyxir",
-      branch: "feature/github-long-formatter",
+      branch: "experiment/file-path-corrections",
       only: [:dev, :test],
       runtime: false}
     ]
