@@ -1,4 +1,4 @@
 %{
-  "dialyxir": {:git, "https://github.com/sendle/dialyxir.git", "17fabb8f9c25db76c10243adc9821e1b6af6b6ca", [branch: "experiment/file-path-corrections"]},
+  "dialyxir": {:git, "https://github.com/sendle/dialyxir.git", "7ac0d92b6cd6721e2e7fa10cdfbc40f5aa53311b", [branch: "experiment/file-path-corrections"]},
   "erlex": {:hex, :erlex, "0.2.7", "810e8725f96ab74d17aac676e748627a07bc87eb950d2b83acd29dc047a30595", [:mix], [], "hexpm", "3ed95f79d1a844c3f6bf0cea61e0d5612a42ce56da9c03f01df538685365efb0"},
 }
